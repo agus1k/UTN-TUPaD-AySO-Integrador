@@ -1,4 +1,4 @@
-# API REST - FastAPI (Proyecto de Virtualización)
+# Trabajo Integrador de Virtualización
 
 Este proyecto forma parte del Trabajo Práctico Integrador de **Arquitectura y Sistemas Operativos (UTN)**.  
 El objetivo es desplegar una **API REST simple con FastAPI** dentro de una **máquina virtual Ubuntu Server** configurada en **modo puente (Bridge)** para permitir el acceso desde la red local.
@@ -55,6 +55,6 @@ Arquitectura cliente-servidor
 Desarrollo backend en Python
 
 ## Autores
-Agustin Miranda
+Agustin Miranda,
 Tobias Correa
 
