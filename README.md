@@ -27,7 +27,6 @@ GET /
 Devuelve un listado en formato JSON con información sobre los juegos de la saga Dark Souls:
 
 ```json
-Copiar código
 {
   "Dark Souls": {
     "Fecha de lanzamiento": 2011,
